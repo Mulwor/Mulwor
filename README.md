@@ -10,7 +10,4 @@
 ![Redux](https://img.shields.io/badge/redux-333?style=for-the-badge&logo=redux&logoColor=violet)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mulwor&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mulwor&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mulwor&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
