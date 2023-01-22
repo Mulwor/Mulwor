@@ -28,5 +28,5 @@ I'm a frontend developer and this is my CV:
 | -- |:-------- | :---------| :-----|
 | 1. | Shelter | HTML, CSS  | https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html  |
 | 2. | CSS-slider | HTML, CSS  | https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html  |
-| 3. | Virtual-keyboard | CSS, JavaScript, Webpack | https://mulwor.github.io/Virtual-keyboard/ |
-| 4. | Drum-Kit-with-Piano | HTML, CSS, JavaScript |  https://mulwor.github.io/Drum-Kit-with-Piano/  |
+| 3. | Drum-Kit-with-Piano | HTML, CSS, JavaScript |  https://mulwor.github.io/Drum-Kit-with-Piano/  |
+| 4. | Virtual-keyboard | CSS, JavaScript, Webpack | https://mulwor.github.io/Virtual-keyboard/ |
