@@ -22,4 +22,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulwor&layout=compact)](https://github.com/Mulwor/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulwor&layout=compact)
