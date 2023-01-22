@@ -3,7 +3,7 @@ I'm a frontend developer and this is my CV:
 [Ali_Adigezalli.pdf](https://github.com/Mulwor/Mulwor/files/10474717/Ali_Adigezalli.pdf)
 
 
-### My stack tecnology now: 
+### My stack: 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -21,5 +21,12 @@ I'm a frontend developer and this is my CV:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulwor&layout=compact)
+
+### My projects: 
+| №  | Name     | Stack | Demo |
+| -- |:-------- | :---------| :-----|
+| 1. | Shelter | HTML, CSS  | https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html  |
+| 2. | CSS-slider | HTML, CSS  | https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html  |
+| 3. | Virtual-keyboard | CSS, JavaScript, Webpack | https://mulwor.github.io/Virtual-keyboard/ |
+| 4. | Drum-Kit-with-Piano | HTML, CSS, JavaScript |  https://mulwor.github.io/Drum-Kit-with-Piano/  |
