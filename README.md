@@ -1,6 +1,8 @@
-### About me
+## Hi, my name is Ali Adigezalli 
+I'm a frontend developer
 
-
+### My CV: 
+[CV_Ali_Adigezalli.pdf](https://github.com/Mulwor/Mulwor/files/10474716/CV_Ali_Adigezalli.pdf)
 
 
 ### My stack tecnology now: 
