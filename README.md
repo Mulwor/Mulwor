@@ -24,10 +24,10 @@ I'm a frontend developer and this is my CV:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulwor&layout=compact)
 
-### My projects: 
+### My last projects: 
 | №  | Name     | Stack | Demo |
 | -- |:-------- | :---------| :-----|
-| 1. |  |  | https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html  |
-| 2. |  |  | https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html  |
-| 3. |  |  |  https://mulwor.github.io/Drum-Kit-with-Piano/  |
-| 4. |  |  | https://mulwor.github.io/Virtual-keyboard/ |
+| 1. |  |  |   |
+| 2. |  |  |   |
+| 3. |  |  |   |
+| 4. |  |  |   |
