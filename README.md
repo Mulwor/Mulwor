@@ -27,7 +27,11 @@ I'm a frontend developer and this is my CV:
 ### My last projects: 
 | №  | Name     | Stack | Demo |
 | -- |:-------- | :---------| :-----|
-| 1. |  |  |   |
-| 2. |  |  |   |
-| 3. |  | JavaScipt, CSS, Webpack |   |
-| 4. |  |  |   |
+| 1. | Вверстка №1  | HTML, CSS, JavaScript | ...  |
+| 2. | Вверстка №2 | HTML, CSS, JavaScript | ...  |
+| 3. | Virtual-keyboard | JavaScipt, CSS, Webpack | https://mulwor.github.io/Virtual-keyboard/  |
+| 4. | ??? | JavaScipt, CSS  | ...  |
+| 5. | ??? | React, TypeScript  | ...  |
+| 6. | ??? | React, redux, typeScript  | ...  |
+
+
