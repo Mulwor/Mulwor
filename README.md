@@ -29,5 +29,5 @@ I'm a frontend developer and this is my CV:
 | -- |:-------- | :---------| :-----|
 | 1. |  |  |   |
 | 2. |  |  |   |
-| 3. |  |  |   |
+| 3. |  | JavaScipt, CSS, Webpack |   |
 | 4. |  |  |   |
