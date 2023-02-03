@@ -24,7 +24,7 @@ I'm a frontend developer and this is my CV:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulwor&layout=compact)
 
-### My last projects: 
+### My projects: 
 | №  | Name     | Stack | Demo |
 | -- |:-------- | :---------| :-----|
 | 1. | Вверстка №1  | HTML, CSS, JavaScript | ...  |
