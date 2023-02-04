@@ -25,14 +25,14 @@ I'm a frontend developer and this is my CV:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mulwor&layout=compact)
 
 ### My projects: 
-| №  | Name     | Stack | Demo |
+| №  | Name     | Stack | Demo/Link |
 | -- |:-------- | :---------| :-----|
 | 1. | Shelter | HTML, CSS | https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html  |
-| 2. | Вверстка №2 | HTML, CSS, JavaScript | ...  |
-| 3. | Drum-Kit-with-Piano | HTML, CSS, JavaScript | https://mulwor.github.io/Drum-Kit-with-Piano/  |
-| 4. | Virtual-keyboard | JavaScipt, CSS, Webpack | https://mulwor.github.io/Virtual-keyboard/  |
-| 5. | ??? | JavaScipt, CSS  | ...  |
-| 6. | ??? | React, TypeScript  | ...  |
-| 7. | ??? | React, redux, typeScript  | ...  |
+| 2. | Productly (в разработке)| HTML, SASS, JS | https://github.com/Mulwor/Productly/tree/productly |
+| 3. | Drum-Kit-with-Piano | HTML, CSS, JS | https://mulwor.github.io/Drum-Kit-with-Piano/  |
+| 4. | Virtual-keyboard | CSS, JS, Webpack | https://mulwor.github.io/Virtual-keyboard/  |
+| 5. | Momentum (в разработке)| HTML, CSS, JS  | https://github.com/Mulwor/Momentum  |
+| 6. | Online-store (в разработке) | React, TypeScript  | https://github.com/Mulwor/my-app  |
+| 7. | Clone Sporify (в разработке) | Tailwind, Redux, RapidAPI  | ...  |
 
 
