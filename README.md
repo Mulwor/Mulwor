@@ -27,11 +27,12 @@ I'm a frontend developer and this is my CV:
 ### My projects: 
 | №  | Name     | Stack | Demo |
 | -- |:-------- | :---------| :-----|
-| 1. | Вверстка №1  | HTML, CSS, JavaScript | ...  |
+| 1. | Shelter | HTML, CSS | https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html  |
 | 2. | Вверстка №2 | HTML, CSS, JavaScript | ...  |
-| 3. | Virtual-keyboard | JavaScipt, CSS, Webpack | https://mulwor.github.io/Virtual-keyboard/  |
-| 4. | ??? | JavaScipt, CSS  | ...  |
-| 5. | ??? | React, TypeScript  | ...  |
-| 6. | ??? | React, redux, typeScript  | ...  |
+| 3. | Drum-Kit-with-Piano | HTML, CSS, JavaScript | https://mulwor.github.io/Drum-Kit-with-Piano/  |
+| 4. | Virtual-keyboard | JavaScipt, CSS, Webpack | https://mulwor.github.io/Virtual-keyboard/  |
+| 5. | ??? | JavaScipt, CSS  | ...  |
+| 6. | ??? | React, TypeScript  | ...  |
+| 7. | ??? | React, redux, typeScript  | ...  |
 
 
