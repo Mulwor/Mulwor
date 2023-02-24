@@ -28,10 +28,8 @@ I'm a frontend developer and this is my CV:
 | №  | Name     | Stack | Demo/Link |
 | -- |:-------- | :---------| :-----|
 | 1. | Shelter | HTML, CSS | https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html  |
-| 2. | Productly (в разработке)| HTML, SASS, JS | https://github.com/Mulwor/Productly/tree/productly |
-| 3. | Drum-Kit-with-Piano | HTML, CSS, JS | https://mulwor.github.io/Drum-Kit-with-Piano/  |
-| 4. | Virtual-keyboard | CSS, JS, Webpack | https://mulwor.github.io/Virtual-keyboard/  |
-| 5. | Online-store (в разработке) | React, TypeScript  | https://github.com/Mulwor/my-app  |
-| 6. | Clone Sporify (в разработке) | Tailwind, Redux, RapidAPI  | ...  |
+| 2. | Drum-Kit-with-Piano | HTML, CSS, JS | https://mulwor.github.io/Drum-Kit-with-Piano/  |
+| 3. | Virtual-keyboard | CSS, JS, Webpack | https://mulwor.github.io/Virtual-keyboard/  |
+
 
 
