@@ -22,12 +22,6 @@ I'm a frontend developer and this is my CV:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=for-the-badge&logo=markdown)
 
-### My projects: 
-| №  | Name     | Stack | Demo/Link |
-| -- |:-------- | :---------| :-----|
-| 1. | Shelter | HTML, CSS | https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html  |
-| 2. | Drum-Kit-with-Piano | HTML, CSS, JS | https://mulwor.github.io/Drum-Kit-with-Piano/  |
-| 3. | Virtual-keyboard | CSS, JS, Webpack | https://mulwor.github.io/Virtual-keyboard/  |
 
 
 
