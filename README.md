@@ -1,7 +1,20 @@
 ## Hi, my name is Ali Adigezalli 
-I'm a frontend developer and this is my CV: 
+I'm a frontend developer and this is my CV in pdf: 
 [Ali_Adigezalli.pdf](https://github.com/Mulwor/Mulwor/files/10474717/Ali_Adigezalli.pdf)
 
+### My projects: 
+
+#### HTML + CSS 
+1. Shelter: https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html
+2. CSS-mem slider: http://mulwor.github.io/CSS-Mem-Slider/
+3. CSS-bayan: https://Mulwor.github.io/cssBayan/cssBayan/index.html
+
+#### HTML + CSS + JS
+1. Drum kit with piano: https://mulwor.github.io/Drum-Kit-with-Piano/
+2. Virtual-keyboard: https://mulwor.github.io/Virtual-keyboard/
+
+#### TypeScript + React
+1. Todolist: https://github.com/Mulwor/ToDoList
 
 ### My stack: 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
