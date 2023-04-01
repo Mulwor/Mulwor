@@ -10,7 +10,7 @@ I'm a frontend developer and this is my CV in pdf:
 3. Drum kit with piano: https://mulwor.github.io/Drum-Kit-with-Piano/
 4. Virtual-keyboard: https://mulwor.github.io/Virtual-keyboard/
 
-#### TypeScript + React
+#### React with TS
 1. Todolist: https://github.com/Mulwor/ToDoList
 
 ### My stack: 
