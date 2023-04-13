@@ -4,19 +4,13 @@ I'm a frontend developer and this is my CV in pdf:
 
 ### My projects: 
 
-#### HTML + CSS + JS
-1. Shelter: https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html
-2. CSS-mem slider: http://mulwor.github.io/CSS-Mem-Slider/
-3. Drum kit with piano: https://mulwor.github.io/Drum-Kit-with-Piano/
-4. Virtual-keyboard: https://mulwor.github.io/Virtual-keyboard/
-
-#### React with TS
-1. Todolist: https://github.com/Mulwor/ToDoList
-2. Cards from backened and form to fill in: https://dazzling-faun-10d762.netlify.app/
-
-Сode: https://github.com/Mulwor/The-king-of-rings
-
-Deploy: https://dazzling-faun-10d762.netlify.app/
+| № | Projects | Demo | 
+| ------- | -------- | -------- | 
+| 1.  | [Mem-slider](https://github.com/Mulwor/CSS-Mem-Slider/tree/gh-pages) | http://mulwor.github.io/CSS-Mem-Slider/ |
+| 2.  | Shelter    |[http://mulwor.github.io/Shelter/](https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html)| 
+| 3.  | [Drum kit with piano](https://github.com/Mulwor/Drum-Kit-with-Piano/tree/drum-kit-piano) |https://mulwor.github.io/Drum-Kit-with-Piano/ |
+| 4.  | [Virtual-keyboard](https://github.com/Mulwor/Virtual-keyboard/tree/virtual-keyboard) | https://mulwor.github.io/Virtual-keyboard/ |
+| 5.  | [Cards and form](https://github.com/Mulwor/The-king-of-rings) | [https://mulwor.github.io/The-king-of-rings/](https://dazzling-faun-10d762.netlify.app/)|
 
 ### My stack: 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
