@@ -12,6 +12,7 @@ I'm a frontend developer and this is my CV in pdf:
 
 #### React with TS
 1. Todolist: https://github.com/Mulwor/ToDoList
+2. Cards from backened and form to fill in: https://dazzling-faun-10d762.netlify.app/
 
 ### My stack: 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
