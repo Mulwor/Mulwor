@@ -11,7 +11,7 @@ I'm a frontend developer and this is my CV in pdf:
 | 3.  | [Drum kit with piano](https://github.com/Mulwor/Drum-Kit-with-Piano/tree/drum-kit-piano) |https://mulwor.github.io/Drum-Kit-with-Piano/ |
 | 4.  | [Virtual-keyboard](https://github.com/Mulwor/Virtual-keyboard/tree/virtual-keyboard) | https://mulwor.github.io/Virtual-keyboard/ |
 | 5.  | [ToDoList](https://github.com/Mulwor/ToDoList) | https://mulwor.github.io/ToDoList/ | 
-| 5.  | [Cards and form](https://github.com/Mulwor/The-king-of-rings) | [https://mulwor.github.io/The-king-of-rings/](https://dazzling-faun-10d762.netlify.app/)|
+| 6.  | [Cards and form](https://github.com/Mulwor/The-king-of-rings) | [https://mulwor.github.io/The-king-of-rings/](https://dazzling-faun-10d762.netlify.app/)|
 
 ### My stack: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
