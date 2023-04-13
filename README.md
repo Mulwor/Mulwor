@@ -14,6 +14,10 @@ I'm a frontend developer and this is my CV in pdf:
 1. Todolist: https://github.com/Mulwor/ToDoList
 2. Cards from backened and form to fill in: https://dazzling-faun-10d762.netlify.app/
 
+Сode: https://github.com/Mulwor/The-king-of-rings
+
+Deploy: https://dazzling-faun-10d762.netlify.app/
+
 ### My stack: 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
