@@ -1,6 +1,7 @@
 ## Hi, my name is Ali Adigezalli 
-I'm a frontend developer and this is my CV in pdf: 
-[Ali_Adigezalli.pdf](https://github.com/Mulwor/Mulwor/files/10474717/Ali_Adigezalli.pdf)
+I'm a frontend developer and this is my cirriculum vitae in pdf: 
+[Ali Adigezalli](https://github.com/Mulwor/Mulwor/files/11240381/Resume.-.Ali.Adigezalli.pdf)
+
 
 ### My projects: 
 
