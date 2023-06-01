@@ -2,17 +2,20 @@
 I'm a frontend developer and this is my cirriculum vitae in pdf: 
 [Ali Adigezalli](https://github.com/Mulwor/Mulwor/files/11240381/Resume.-.Ali.Adigezalli.pdf)
 
+### My last projects: 
+| № | Projects | Demo | 
+| ------- | -------- | -------- | 
+| 1.  | [Clone GraphiQL](https://github.com/Mulwor/graphiql-app) | https://qraphiql-app-clone.netlify.app/ |
 
-### My projects: 
+
+### My first projects: 
 
 | № | Projects | Demo | 
 | ------- | -------- | -------- | 
-| 1.  | [Mem-slider](https://github.com/Mulwor/CSS-Mem-Slider/tree/gh-pages) | http://mulwor.github.io/CSS-Mem-Slider/ |
-| 2.  | Shelter                                                              |[http://mulwor.github.io/Shelter/](https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html)| 
-| 3.  | [Drum kit with piano](https://github.com/Mulwor/Drum-Kit-with-Piano/tree/drum-kit-piano) |https://mulwor.github.io/Drum-Kit-with-Piano/ |
-| 4.  | [Virtual-keyboard](https://github.com/Mulwor/Virtual-keyboard/tree/virtual-keyboard) | https://mulwor.github.io/Virtual-keyboard/ |
-| 5.  | [ToDoList](https://github.com/Mulwor/ToDoList) | https://mulwor.github.io/ToDoList/ | 
-| 6.  | [Cards and form](https://github.com/Mulwor/The-king-of-rings) | [https://mulwor.github.io/The-king-of-rings/](https://dazzling-faun-10d762.netlify.app/)|
+| 1.  | Shelter                                                              |[http://mulwor.github.io/Shelter/](https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html)| 
+| 2.  | [Drum kit with piano](https://github.com/Mulwor/Drum-Kit-with-Piano/tree/drum-kit-piano) |https://mulwor.github.io/Drum-Kit-with-Piano/ |
+| 3.  | [Virtual-keyboard](https://github.com/Mulwor/Virtual-keyboard/tree/virtual-keyboard) | https://mulwor.github.io/Virtual-keyboard/ |
+| 4.  | [ToDoList](https://github.com/Mulwor/ToDoList) | https://mulwor.github.io/ToDoList/ | 
 
 ### My stack: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
