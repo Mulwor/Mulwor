@@ -5,20 +5,14 @@ I'm a frontend developer and this is my cirriculum vitae in pdf:
 My certificates: [react](https://github.com/Mulwor/Mulwor/files/11685355/Certificate.pdf), 
 
 
-### My last projects: 
-| № | Projects | Demo | 
-| ------- | -------- | -------- | 
-| 1.  | [Clone GraphiQL](https://github.com/Mulwor/graphiql-app) | https://qraphiql-app-clone.netlify.app/ |
-
-
-### My first projects: 
-
-| № | Projects | Demo | 
-| ------- | -------- | -------- | 
-| 1.  | Shelter                                                              |[http://mulwor.github.io/Shelter/](https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html)| 
-| 2.  | [Drum kit with piano](https://github.com/Mulwor/Drum-Kit-with-Piano/tree/drum-kit-piano) |https://mulwor.github.io/Drum-Kit-with-Piano/ |
-| 3.  | [Virtual-keyboard](https://github.com/Mulwor/Virtual-keyboard/tree/virtual-keyboard) | https://mulwor.github.io/Virtual-keyboard/ |
-| 4.  | [ToDoList](https://github.com/Mulwor/ToDoList) | https://mulwor.github.io/ToDoList/ | 
+### My last projects in descending order.: 
+| Projects | Demo | 
+| ------- | -------- | 
+| [Clone GraphiQL](https://github.com/Mulwor/graphiql-app) | https://qraphiql-app-clone.netlify.app/ |
+| [ToDoList](https://github.com/Mulwor/ToDoList) | https://mulwor.github.io/ToDoList/ | 
+| [Drum kit with piano](https://github.com/Mulwor/Drum-Kit-with-Piano/tree/drum-kit-piano) |https://mulwor.github.io/Drum-Kit-with-Piano/ |
+| [Virtual-keyboard](https://github.com/Mulwor/Virtual-keyboard/tree/virtual-keyboard) | https://mulwor.github.io/Virtual-keyboard/ |
+| Shelter  |[http://mulwor.github.io/Shelter/](https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html)| 
 
 ### My stack: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
