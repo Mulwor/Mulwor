@@ -1,9 +1,5 @@
 ## Hi, my name is Ali Adigezalli 
-I'm a frontend developer and this is my cirriculum vitae in pdf: 
-[Ali Adigezalli](https://github.com/Mulwor/Mulwor/files/11240381/Resume.-.Ali.Adigezalli.pdf)
-
-My certificates: [react](https://github.com/Mulwor/Mulwor/files/11685355/Certificate.pdf), 
-
+I'm a frontend developer
 
 ### My last projects in descending order.: 
 | Projects | Demo | 
