@@ -1,4 +1,4 @@
-## Hi, my name is Ali Adigezalli 
+## Hi, my name is Sandmor
 I'm a frontend developer
 
 ### My last projects in descending order.: 
