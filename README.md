@@ -1,4 +1,4 @@
-## Hi, my name is Mulwor`
+## Hi, my name is Mulwor
 I'm a frontend developer
 
 ### My last projects in descending order.: 
