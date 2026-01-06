@@ -32,16 +32,3 @@
     <img src="https://skillicons.dev/icons?i=nodejs&theme=light" />
   </a>
 </p>
-
-### My projects: 
-| Projects | Demo | 
-| ------- | -------- | 
-| [Clone GraphiQL](https://github.com/Mulwor/graphiql-app) | https://qraphiql-app-clone.netlify.app/ |
-| [ToDoList](https://github.com/Mulwor/ToDoList) | https://mulwor.github.io/ToDoList/ | 
-| [Drum kit with piano](https://github.com/Mulwor/Drum-Kit-with-Piano/tree/drum-kit-piano) |https://mulwor.github.io/Drum-Kit-with-Piano/ |
-| [Virtual-keyboard](https://github.com/Mulwor/Virtual-keyboard/tree/virtual-keyboard) | https://mulwor.github.io/Virtual-keyboard/ |
-| Shelter  |[http://mulwor.github.io/Shelter/](https://rolling-scopes-school.github.io/mulwor-JSFE2022Q1/Shelter/pages/main/index.html)| 
-
-
-
-
